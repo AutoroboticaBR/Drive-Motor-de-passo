@@ -1,0 +1,23 @@
+  Revised: Wednesday, May 02, 2001
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials            May 2,2001      21:44:42	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C2	CAPACITOR POL
+2	1	C3	CAP NP
+3	4	D1,D2,D3,D4	1N4007
+4	1	J1	MOTOR
+5	1	J2	ENTRADA
+6	4	Q1,Q2,Q3,Q4	NPN BCE
+7	4	R1,R2,R3,R4	R
+8	1	U1	4070
+9	1	U2	4027

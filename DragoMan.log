@@ -1,0 +1,9 @@
+!!!CRASH Hook.dll : app=CAPTURE.EXE, msg=117, wParam=b5c, lParam=4, lpView=82f1e000
+  lpView:  i_app=13, msg=117, class=OrCaptureFrame,  source=, target=A
+  lpView:  msgstr= 
+!!!CRASH Hook.dll : app=CAPTURE.EXE, msg=117, wParam=a8c, lParam=4, lpView=82f1e000
+  lpView:  i_app=13, msg=117, class=OrCaptureFrame,  source=, target=
+  lpView:  msgstr= 
+!!!CRASH Hook.dll : app=CAPTURE.EXE, msg=117, wParam=458, lParam=4, lpView=82e1c000
+  lpView:  i_app=13, msg=117, class=Client480,  source=, target=A
+  lpView:  msgstr= 

@@ -1,0 +1,63 @@
+AutoECO Report
+FILE-A: C:\MEUS DOCUMENTOS\PROJETOS\DRIVE M,.MAX
+FILE-B: C:\MEUS DOCUMENTOS\PROJETOS\DRIVE M,PASSO.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint DIP 14
+Adding footprint DIP 16
+Adding footprint RESISTOR 2
+Adding footprint BD
+Adding footprint CAPACITOR POL
+Adding footprint CAP
+Adding footprint DIODE 3
+Adding footprint CONN5
+Adding package 4070
+Adding package 4027
+Adding package R
+Adding package NPN_BCE
+Adding package CAPACITOR_POL
+Adding package CAP_NP
+Adding package 1N4007
+Adding package CON5
+Adding component U1
+Adding component U2
+Adding component R1
+Adding component R2
+Adding component R3
+Adding component R4
+Adding component Q1
+Adding component Q2
+Adding component Q3
+Adding component Q4
+Adding component C2
+Adding component C3
+Adding component D1
+Adding component D2
+Adding component D3
+Adding component D4
+Adding component J1
+Adding component J2
+Adding net VDD
+Adding net VSS
+Adding net N00081
+Adding net N00084
+Adding net N00087
+Adding net N00090
+Adding net N00093
+Adding net N00111
+Adding net N00132
+Adding net N00152
+Adding net N00188
+Adding net N00194
+Adding net N00340
+Adding net VCC_BAR
+Adding net GND
+Adding net N00638
+Adding net N00644
+Adding net N00650
+Adding net N00656
+Adding net N01021
+Adding net N00753
+Adding net N00107
+Deleting net DEFAULT
+*EOF*
+No errors found
